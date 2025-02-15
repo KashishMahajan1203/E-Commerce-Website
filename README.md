@@ -44,5 +44,5 @@
 Contributions are welcome! If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 
 ## Usage
-To use Resumave, simply visit [resumave.vercel.app](https://quickcart-website.netlify.app/)
+To see e-commerce-website, simply visit [quickcartWebsite.com](https://quickcart-website.netlify.app/)
 
